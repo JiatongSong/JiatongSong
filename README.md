@@ -1,4 +1,4 @@
-<h1>Hi, I'm Jiatong! <br/><a href="https://github.com/JiatongSong">Data Insight Analyst</a>, <a href="https://www.linkedin.com/in/jiatong-song/">Business Analyst</a>, Photographer
+<h1>Hi, I'm Jiatong! <br/>
 
 <h2>👨‍💻 Analytical Project Experience:</h2>
 
