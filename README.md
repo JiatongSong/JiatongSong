@@ -1,6 +1,6 @@
 <h1>Hi, I'm Jiatong! <br/> </h1>
   
-<b>I gained practical experience working with leading technology companies. I’m interested in using data-driven insights to solve business problems</b>
+<b>I gained practical experience working with leading technology companies. I’m interested in using data-driven insights to solve business problems.</b>
 <h2>👨‍💻 Analytical Project Experience:</h2>
 
 - <b>Causal Inference Model</b>
