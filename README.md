@@ -2,7 +2,7 @@
 
 <h2>👨‍💻 Analytical Project Experience:</h2>
 
-- <b>Causual Inference Model</b>
+- <b>Causal Inference Model</b>
   - [Marketing strategy optimization](https://github.com/joshmadakor1/Algorithms-Practice)
 - <b>Full Stack Web App </b>
   - [User credit risk prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
