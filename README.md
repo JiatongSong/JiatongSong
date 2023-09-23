@@ -5,9 +5,9 @@
 - <b>Causal Inference Model</b>
   - [Marketing strategy optimization](https://github.com/JiatongSong/Marketing-strategy-optimization/blob/main/Marketing%20strategy%20optimization.ipynb)
 - <b>Full Stack Web App </b>
-  - [User credit risk prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
+  - [User Credit Risk Prediction](https://github.com/JiatongSong/Customer-Loan-Risk-Analysis/blob/main/Customer%20Loan%20Risk.ipynb) 
 - <b>Python</b>
-  - [Churned user recall and conversion rate prediction](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
+  - [E-commerce Platform User Churn Prediction Analysis](https://github.com/JiatongSong/E-commerce-Platform-User-Churn-Prediction-Analysis/blob/main/%E7%94%B5%E5%95%86%E5%B9%B3%E5%8F%B0%E7%94%A8%E6%88%B7%E6%B5%81%E5%A4%B1%E9%A2%84%E6%B5%8B%E5%88%86%E6%9E%90_ChurnAnalysis.ipynb)
 
 
 <h2> 🤳 Connect with me:</h2>
