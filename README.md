@@ -3,7 +3,7 @@
 <h2>👨‍💻 Analytical Project Experience:</h2>
 
 - <b>Causal Inference Model</b>
-  - [Marketing strategy optimization](https://github.com/JiatongSong/Analytical-Project-Experience.git)
+  - [Marketing strategy optimization](https://github.com/JiatongSong/Marketing-strategy-optimization/blob/main/Marketing%20strategy%20optimization.ipynb)
 - <b>Full Stack Web App </b>
   - [User credit risk prediction](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) 
 - <b>Python</b>
